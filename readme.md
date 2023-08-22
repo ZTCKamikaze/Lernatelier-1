@@ -6,7 +6,7 @@ Bis zu den Herbstferien
 
 ## Leit-Satz
 
-Ich will progdrammieren können, darum werde ich kleine Projekte programmieren , wie zum Beispiel einen Zufallsgenerator. Und dann immer schwirigere Projekte programmieren.
+Ich möchte kleine Programmierübungen machen, damit ich die Grundlagen des Programmiernes zu lernen.
 
 ## Arbeitspakete für 29.08.2023
 
