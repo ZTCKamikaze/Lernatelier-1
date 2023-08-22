@@ -6,7 +6,7 @@ Bis zu den Herbstferien
 
 ## Leit-Satz
 
-Ich will progdrammieren können, darum werde ich kleine Projekte programmieren , wie zum Beispiel einen Zufallsgenerator. Und dann immer schwirigere Projekte programmieren. Damit ich immer besser werde.
+Ich will progdrammieren können, darum werde ich kleine Projekte programmieren , wie zum Beispiel einen Zufallsgenerator. Und dann immer schwirigere Projekte programmieren.
 
 ## Arbeitspakete für 29.08.2023
 
@@ -15,13 +15,13 @@ Ich will progdrammieren können, darum werde ich kleine Projekte programmieren ,
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 - [ ] Ein Programm, dass mir zufällige Namen, die ich ihm gegeben habe, mir herausgibt  (Zufallsgenerator). Auch für Zahlen (z.B. zwischen 1 und 100)
 - [ ] IEin Programm, welches mir Bilder von einem bestimmten Thema, das ich sage, gibt.
-- [ ] Ein Programm, dass mir die Wetterbedinungen angibt, wenn ich ihm den Tag gebe (inerhalb 5 Tge)
 
 | Vorbereitung             | Eingabe                                                         | Erwartete Ausgabe   |
 | ------------------------ | --------------------------------------------------------------- | ------------------- |
 | Programm in VS gestartet | `Mika`                                                          | `Hallo Mika`        |
 | Programm in VS gestartet | `Mika, Florian, Robin, Alex...` oder `Zahl zwischen 1 und 1000` | `Mika` oder `358`   |
-| Programm in              | `Volleyball`                                                    | `Volleyball Bilder` |
+| Programm in VS gestartet | `Volleyball`                                                    | `Volleyball Bilder` |
+| Programm in VS gestartet | `22.08.2023`                                                    | `32°`               |
 
 - [ ] ...
 - [ ] ...
