@@ -15,6 +15,7 @@ Ich möchte kleine Programmierübungen machen, damit ich die Grundlagen des Prog
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 - [ ] Ein Programm, dass mir zufällige Namen, die ich ihm gegeben habe, mir herausgibt  (Zufallsgenerator). Auch für Zahlen (z.B. zwischen 1 und 100)
 - [ ] IEin Programm, welches mir Bilder von einem bestimmten Thema, das ich sage, gibt.
+- [ ] Numberguesser
 
 | Vorbereitung             | Eingabe                                                         | Erwartete Ausgabe   |
 | ------------------------ | --------------------------------------------------------------- | ------------------- |
