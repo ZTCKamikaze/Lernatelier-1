@@ -14,14 +14,14 @@ Ich möchte kleine Programmierübungen machen, damit ich die Grundlagen des Prog
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 - [ ] Taschenrechner
-- [ ] IEin Programm, welches mir Bilder von einem bestimmten Thema, das ich sage, gibt.
+- [ ] Zahl eraten
 - [ ] Würfel Spiel
 
 | Vorbereitung             | Eingabe                                                         | Erwartete Ausgabe   |
 | ------------------------ | --------------------------------------------------------------- | ------------------- |
 | Programm in VS gestartet | `Mika`                                                          | `Hallo Mika`        |
-| Programm in VS gestartet | `3*3`                                                           | `9`                  |
-| Programm in VS gestartet | `Volleyball`                                                    | `Volleyball Bilder` |
+| Programm in VS gestartet | `3*3`                                                           | `9`                 |
+| Programm in VS gestartet | `22`                                                            | `Höher`             |
 | Programm in VS gestartet | `22.08.2023`                                                    | `32°`               |
 
 - [ ] ...
