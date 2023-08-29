@@ -18,11 +18,11 @@ Ich möchte kleine Programmierübungen machen, damit ich die Grundlagen des Prog
 - [ ] Würfel Spiel
 
 | Vorbereitung             | Eingabe                                                         | Erwartete Ausgabe   |
-| ------------------------ | --------------------------------------------------------------- | ------------------- |
-| Programm in VS gestartet | `Mika`                                                          | `Hallo Mika`        |
-| Programm in VS gestartet | `3*3`                                                           | `9`                 |
-| Programm in VS gestartet | `22`                                                            | `Höher`             |
-| Programm in VS gestartet | `22.08.2023`                                                    | `32°`               |
+| ------------------------ | --------------------------------------------------------------- | ------------------ |
+| Programm in VS gestartet | `Mika`                                                          | `Hallo Mika`                        |
+| Programm in VS gestartet | `3*3`                                                           | `9`                                 |
+| Programm in VS gestartet | `22`                                                            | `Höher`                             |
+| Programm in VS gestartet | `würfelt 5`                                                    | `5, würfle nochmal, zu wenig punkte` |
 
 Ich bin heute sehr gut vorangekommen. Ich habe ein Würfelspiel angefangen, indem man würfelt und damit 15 Punkte erreichen. Und ich habe einen Taschenrechner angefangen. Ich bin auch sehr gut vorangekommen, in der mitte des Würfelspiels habe ich aufgehört, weil ich nicht weiter gekommen bin, denn ich wollte/musste mit if und else arbeiten, bin aber nicht weitergekommen.
 
