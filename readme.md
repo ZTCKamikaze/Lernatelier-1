@@ -32,6 +32,7 @@ Ich bin heute sehr gut vorangekommen. Ich habe ein Würfelspiel angefangen, inde
 - [ ] Taschenrechner
 - [ ] Zahl eraten
 - [ ] Würfel Spiel
+- [ ] Für Modul 431 vorarbeiten (wegen Schulreise)
 
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
