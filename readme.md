@@ -40,7 +40,7 @@ Heute bin ich sehr gut vorangekommen. Leider habe ich bei meinem Würfel-Spiel d
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 
 ## Arbeitspakete für 12.09.2023
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
+- [x] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 - [ ] Taschenrechner
 - [ ] Zahl eraten
 - [ ] Würfel Spiel
