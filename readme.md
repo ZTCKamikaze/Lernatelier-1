@@ -54,3 +54,10 @@ Heute habe ich mein Programm geschrieben, wo man seinen Namen eingibt und das Pr
 | Programm in VS gestartet | `22`                                                            | `Höher`                             |
 | Programm in VS gestartet | `würfelt 5`                                                     | `5, würfle nochmal` zu wenig punkte |
 
+
+
+##Arbeitspakete für 19.09.2023
+- [ ] Taschenrechner Problem lösen
+- [ ] Number Guesser (Zahl erraten)
+- [ ] Würfel Spiel
+- [ ] Kleines Spiel (Evt. ähnlich wie Snake oder PacMan)
