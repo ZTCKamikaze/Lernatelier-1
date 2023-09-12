@@ -45,3 +45,5 @@ Heute bin ich sehr gut vorangekommen. Leider habe ich bei meinem Würfel-Spiel d
 - [ ] Zahl eraten
 - [ ] Würfel Spiel
 
+Heute habe ich mein Programm geschrieben, wo man seinen Namen eingibt und das Programm diesen wieder ausgibt, vielleicht werde ich irgendwann noch einen weiter Schritt einbauen, mal schauen. Und danach habe ich mich wieder an mein Würfelspiel gewidmet, leider habe ich den ganzen Code gelöscht, weil ich es anderes machen wollte, das heisst ich musste neu Anfangen, und jetzt muss ich schauen wie ich eine Random Zahl mache, zwischen 1 und 9, habe ich leider vergessen, ich weiss wie man eine Random Zahl erstellet, aber nicht in einen Zahlenraum. (89 Wörter)
+
