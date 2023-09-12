@@ -45,5 +45,12 @@ Heute bin ich sehr gut vorangekommen. Leider habe ich bei meinem Würfel-Spiel d
 - [ ] Zahl eraten
 - [ ] Würfel Spiel
 
-Heute habe ich mein Programm geschrieben, wo man seinen Namen eingibt und das Programm diesen wieder ausgibt, vielleicht werde ich irgendwann noch einen weiter Schritt einbauen, mal schauen. Und danach habe ich mich wieder an mein Würfelspiel gewidmet, leider habe ich den ganzen Code gelöscht, weil ich es anderes machen wollte, das heisst ich musste neu Anfangen, und jetzt muss ich schauen wie ich eine Random Zahl mache, zwischen 1 und 9, habe ich leider vergessen, ich weiss wie man eine Random Zahl erstellet, aber nicht in einen Zahlenraum. (89 Wörter)
+Heute habe ich mein Programm geschrieben, wo man seinen Namen eingibt und das Programm diesen wieder ausgibt, vielleicht werde ich irgendwann noch einen weiter Schritt einbauen, mal schauen. Und danach habe ich mich wieder an mein Würfelspiel gewidmet, leider habe ich den ganzen Code gelöscht, weil ich es anderes machen wollte, das heisst ich musste neu Anfangen, und jetzt habe ich ein Problem, und zwar schaffe ich es nicht, dass es bei über 15 aufhören soll, oder bei unter 15 nochmal Würfeln soll. (83 Wörter)
+
+| Vorbereitung             | Eingabe                                                         | Erwartete Ausgabe   |
+| ------------------------ | --------------------------------------------------------------- | ------------------ |
+| Programm in VS gestartet | `Mika`                                                          | `Hallo Mika! Ich hoffe du hattest einen schönen Tag!`|
+| Programm in VS gestartet | `3*3`                                                           | `9`                                 |
+| Programm in VS gestartet | `22`                                                            | `Höher`                             |
+| Programm in VS gestartet | `würfelt 5`                                                     | `5, würfle nochmal` zu wenig punkte |
 
