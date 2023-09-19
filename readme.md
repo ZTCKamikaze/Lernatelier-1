@@ -66,6 +66,6 @@ Heute habe ich sehr gut gearbeitet, ich habe mein Problem in meinem Taschenrechn
 
 
 ## Arbeitspakete für 26.09.2023
-- [ ] Kleines Snake Spiel fertig machen
+- [X] Kleines Snake Spiel fertig machen
 - [ ] Würfel Spiel
 - [ ] EPortfolios zum Modul 319 machen
