@@ -61,3 +61,11 @@ Heute habe ich mein Programm geschrieben, wo man seinen Namen eingibt und das Pr
 - [X] Number Guesser (Zahl erraten)
 - [ ] Würfel Spiel
 - [ ] Kleines Spiel (Evt. ähnlich wie Snake oder PacMan)
+
+Heute habe ich sehr gut gearbeitet, ich habe mein Problem in meinem Taschenrechner gefunden und sogar noch schnell einen Clear Button eingefügt. Zudem habe ich meinen Number Guesser fertig bekommen, der nun ein kleines Ratespiel ist. Unteranderem habe ich sogar mein kleines Snake Spiel angefangen, jedoch ist es sehr schwierig und kompliziert. Mithilfe eines YouTubevideos bin ich aber schon sehr weit gekommen, ich bin auch schon fast fertig, nächstes mal werde ich 100% fertig sein. Leider habe ich mein Würfel Spiel nicht fertig machen können, aber ich versuche es nächste Woche fertig zu stellen. (94 Wörter)
+
+
+## Arbeitspakete für 26.09.2023
+- [ ] Kleines Snake Spiel fertig machen
+- [ ] Würfel Spiel
+- [ ] EPortfolios zum Modul 319 machen
