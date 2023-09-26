@@ -10,7 +10,7 @@ Ich möchte kleine Programmierübungen machen, damit ich die Grundlagen des Prog
 
 ## Arbeitspakete für 29.08.2023
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 - [ ] Taschenrechner
@@ -80,7 +80,7 @@ Ich habe sehr viel gelernt in dieser Lernperiode, was das Programmieren angeht. 
 
 ## VBV
 
-Ich schlage mir selber vor, dass ich mir gut überlege, was ich machen möchte, damit die Vollständige Idee erst am letzten Tag der Lernperiode herauskommt.
-
-Ich schlage auch noch vor, dass ich mich an ein Problem länger hinsetzten sollte und nicht einfach aufgeben und auf das nächste Mal verschieben.
+- [ ]Ich schlage mir selber vor, dass ich mir gut überlege, was ich machen möchte, damit die Vollständige Idee erst am letzten Tag der Lernperiode       
+     herauskommt.
+- [ ]Ich schlage auch noch vor, dass ich mich an ein Problem länger hinsetzten sollte und nicht einfach aufgeben und auf das nächste Mal verschieben.
 
