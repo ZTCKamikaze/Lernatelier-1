@@ -37,8 +37,6 @@ Ich bin heute sehr gut vorangekommen. Ich habe ein Würfelspiel angefangen, inde
 Heute bin ich sehr gut vorangekommen. Leider habe ich bei meinem Würfel-Spiel den Fehler nicht finden können und habe am Taschenrechner weitergearbeitet. Dieser ist auch schon fertig, aber es gibt noch irgendein Prolem das ich nächstes mal beheben muss. Ich habe auch noch für das Modul 431 vorgearbeitet, weil wir am Donnerstag Schulreise haben und ich dann noch im Zeitplan bin. (61 Wörter)
 
 
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
-
 ## Arbeitspakete für 12.09.2023
 - [x] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 - [ ] Taschenrechner
