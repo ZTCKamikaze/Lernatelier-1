@@ -78,7 +78,7 @@ Ich habe sehr viel gelernt in dieser Lernperiode, was das Programmieren angeht. 
 
 ## VBV
 
-- [ ]Ich schlage mir selber vor, dass ich mir gut überlege, was ich machen möchte, damit die Vollständige Idee erst am letzten Tag der Lernperiode       
-     herauskommt.
-- [ ]Ich schlage auch noch vor, dass ich mich an ein Problem länger hinsetzten sollte und nicht einfach aufgeben und auf das nächste Mal verschieben.
+- [ ] Ich schlage mir selber vor, dass ich mir gut überlege, was ich machen möchte, damit die Vollständige Idee erst am letzten Tag der Lernperiode       
+      herauskommt.
+- [ ] Ich schlage auch noch vor, dass ich mich an ein Problem länger hinsetzten sollte und nicht einfach aufgeben und auf das nächste Mal verschieben.
 
